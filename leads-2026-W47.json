@@ -1,0 +1,23 @@
+{
+ "week": "2026-W47",
+ "leads": 3696,
+ "cities": [
+  "almaty",
+  "astana",
+  "ekaterinburg",
+  "kazan",
+  "krasnodar",
+  "novosibirsk",
+  "rostov",
+  "samara",
+  "ufa",
+  "voronezh"
+ ],
+ "price_rub": {
+  "one": "990",
+  "month": "2 900",
+  "quarter": "7 900"
+ },
+ "contact": "factory@pxbt.app",
+ "license": "ODbL (OpenStreetMap)"
+}
