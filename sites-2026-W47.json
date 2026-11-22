@@ -1,6 +1,6 @@
 {
  "week": "2026-W47",
- "bad_sites": 479,
+ "bad_sites": 474,
  "cities": [
   "almaty",
   "astana",
@@ -13,20 +13,20 @@
   "ufa",
   "voronezh"
  ],
- "audited": 1200,
- "verified": 1100,
- "blocked": 100,
+ "audited": 1194,
+ "verified": 1102,
+ "blocked": 90,
  "dropped": {
-  "junk": 11805,
+  "junk": 11847,
   "social": 306,
-  "dup": 3907,
-  "quota": 7346,
-  "phone": 5410,
+  "dup": 3904,
+  "quota": 7316,
+  "phone": 5407,
   "chain": 4189
  },
  "avg_score": 2.0,
- "no_https": 369,
- "dead": 294,
+ "no_https": 365,
+ "dead": 292,
  "price_rub": {
   "sites": "1 990",
   "sites5": "4 900"

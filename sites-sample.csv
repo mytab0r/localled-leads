@@ -1,41 +1,41 @@
 ﻿city,name,rubric,phone,site,score,https,mobile,forms,seo,speed,issues,kb,secs,map_url
-almaty,"Prokofe La Marzocco, Iberital",cafe,+777*****080,http://www.prokofe.kz,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",0,0.7,https://www.openstreetmap.org/node/8629985417
-astana,Бразилия елшілігі,diplomatic,+7 (*********** 84,http://astana.itamaraty.gov.br,3,2,0,0,0,1,"no-viewport,no-form,weak-seo",49,3.3,https://www.openstreetmap.org/node/8492033176
-ekaterinburg,Перспектива Авто,car_parts;tyres,+7-3*********-00,http://pa-i.ru,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",4,0.8,https://www.openstreetmap.org/node/1582613127
-kazan,Казанская клиника,clinic,+7 8*******550,https://www.sberbank.ru,2,0,0,0,1,1,"bad-ssl,no-viewport,no-form,weak-seo",1,2.3,https://www.openstreetmap.org/node/3451135106
+almaty,"Prokofe La Marzocco, Iberital",cafe,+777*****080,http://www.prokofe.kz,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",0,0.8,https://www.openstreetmap.org/node/8629985417
+astana,Сервисный центр Элтайм,company,+770*****979,https://www.eltime.kz,4,2,2,0,0,0,"no-form,weak-seo,slow",585,0.5,https://www.openstreetmap.org/node/11764970669
+ekaterinburg,"ОКБ ""Новатор"" имени Люльева",research,+7 3*******039,https://www.okb-novator.ru,3,0,2,0,1,0,"bad-ssl,no-form,weak-seo,slow",4,30.6,https://www.openstreetmap.org/node/2472710149
+kazan,Ариадна,travel_agency,+784*****912,http://xn--b1aaiaql6aolj.xn--p1ai,2,2,0,0,0,0,"no-viewport,no-form,weak-seo,slow",13,23.2,https://www.openstreetmap.org/node/2776760583
 krasnodar,Магнит Косметик,cosmetics,+7 8*******002,https://magnitcosmetic.ru/,2,0,0,0,0,2,"bad-ssl,no-viewport,no-form,weak-seo",95,1.3,https://www.openstreetmap.org/node/355511410
-novosibirsk,Автомастерская по ремонту и замене автостекол,car_repair,+738*****514,http://avtosteklo-nsk.ru/index.htm,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",6,0.2,https://www.openstreetmap.org/node/5492714921
-rostov,Велопрестиж,bicycle,8863****914,http://www.velopr.ru,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",0,0.2,https://www.openstreetmap.org/node/5033212322
+novosibirsk,Автомастерская по ремонту и замене автостекол,car_repair,+738*****514,http://avtosteklo-nsk.ru/index.htm,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",6,0.1,https://www.openstreetmap.org/node/5492714921
+rostov,Пчёлка,veterinary,+786*****396,https://www.klinika-pchelka.narod.ru/,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",16,0.5,https://www.openstreetmap.org/node/3825549258
 samara,АВТОВИЖЕН Плюс,car_parts,+792*****704,https://www.avtovision.ru/,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",14,1.1,https://www.openstreetmap.org/node/6361344385
 ufa,Капитал Медицинское Страхование,insurance,+7 3*******354,https://kapmed.ru/,2,2,0,0,0,0,"no-viewport,no-form,weak-seo,slow",585,3.7,https://www.openstreetmap.org/node/7505927791
 voronezh,Ташир,fast_food,+7 8*******910,http://tashirpizza.ru/,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",13,0.1,https://www.openstreetmap.org/node/779176604
 almaty,Нур кз,company,+772*****049,https://nur.kz/,3,2,0,0,0,1,"no-viewport,no-form,weak-seo",107,0.6,https://www.openstreetmap.org/node/7477985585
-astana,Сервисный центр Элтайм,company,+770*****979,https://www.eltime.kz,4,2,2,0,0,0,"no-form,weak-seo,slow",585,0.5,https://www.openstreetmap.org/node/11764970669
-ekaterinburg,"ОКБ ""Новатор"" имени Люльева",research,+7 3*******039,https://www.okb-novator.ru,3,0,2,0,1,0,"bad-ssl,no-form,weak-seo,slow",4,16.2,https://www.openstreetmap.org/node/2472710149
-kazan,Гимназия № 13 с татарским языком обучения,school,+784*****788,http://kznschg13.edusite.ru/,5,0,2,0,1,2,"no-https,no-form,weak-seo",50,0.1,https://www.openstreetmap.org/node/3931871620
-krasnodar,Эмекс,car_parts,+7 9*******090,http://www.2440090.ru,2,0,0,0,0,2,"bad-ssl,no-viewport,no-form,weak-seo",0,1.3,https://www.openstreetmap.org/node/5070845521
+astana,ШашлычОк,fast_food,+7 7********900,https://shashlychok.kz,4,2,1,0,1,0,"no-form,weak-seo,slow",466,1.1,https://www.openstreetmap.org/node/12049030088
+ekaterinburg,Salus,clinic,+734*****077,http://www.salusclinic.ru/,4,0,2,0,0,2,"no-https,no-form,weak-seo",1,1.1,https://www.openstreetmap.org/node/2334986311
+kazan,Казанская клиника,clinic,+7 8*******550,https://www.sberbank.ru,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",1,0.1,https://www.openstreetmap.org/node/3451135106
+krasnodar,Эмекс,car_parts,+7 9*******090,http://www.2440090.ru,2,0,0,0,0,2,"bad-ssl,no-viewport,no-form,weak-seo",0,0.9,https://www.openstreetmap.org/node/5070845521
 novosibirsk,АЦ Новосибирск,car,+7 3*******367,http://www.audi-novosibirsk.ru/,4,0,0,0,2,2,"no-https,no-viewport,no-form",12,0.1,https://www.openstreetmap.org/node/1218536399
-rostov,Пчёлка,veterinary,+786*****396,https://www.klinika-pchelka.narod.ru/,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",16,0.5,https://www.openstreetmap.org/node/3825549258
+rostov,Селена,travel_agency,(863********-97,http://selena-tour.ru/,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",0,0.1,https://www.openstreetmap.org/node/3951421271
 samara,Зов Джунглей,pet,+7 8*******329,https://www.zov-jungle.narod.ru/,4,0,0,0,2,2,"bad-ssl,no-viewport,no-form",17,1.2,https://www.openstreetmap.org/node/1985519289
-ufa,Автозапчасти на иномарки,car_parts,+7 9*******351,https://avtozap-ufa.ru/,4,2,0,0,0,2,"no-viewport,no-form,weak-seo",4,1.3,https://www.openstreetmap.org/node/2541216922
+ufa,Автозапчасти на иномарки,car_parts,+7 9*******351,https://avtozap-ufa.ru/,4,2,0,0,0,2,"no-viewport,no-form,weak-seo",4,0.3,https://www.openstreetmap.org/node/2541216922
 voronezh,172 центральный автомобильный ремонтный завод,company,+7 4*******877,http://www.172carz.ru/,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",0,0.2,https://www.openstreetmap.org/node/854470221
-almaty,Bioklimat,electronics,+772*****891,https://bioklimat.kz/,0,0,0,0,0,0,dead,0,2.2,https://www.openstreetmap.org/node/5111174825
-astana,12 Месяцев,doityourself,+7 (********325,http://www.12mv.kz,0,0,0,0,0,0,dead,0,4.6,https://www.openstreetmap.org/node/4931059090
-ekaterinburg,Paparazzi,restaurant,+734*****080,http://vino-pasta.ru/,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/1522763378
-kazan,AVGservice,car_repair,+7 8*******470,http://avgservis.ru/,0,0,0,0,0,0,dead,0,4.5,https://www.openstreetmap.org/node/5104085721
-krasnodar,Grey Bear,pub,+7 8*******877,http://www.beef-and-beer.ru/,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/2497793498
-novosibirsk,Golden Rose,restaurant,+7 3*******332,http://www.goldenr.ru/,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/4149697990
-rostov,1000 и 1 ночь,massage,8928****030,http://1001noch.rnd,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/5604602022
-samara,Florida Flowers,florist,+792*****199,http://florisasmr.ru,0,0,0,0,0,0,dead,0,4.6,https://www.openstreetmap.org/node/5300432676
-ufa,033,bar,+7 9*******033,https://cafekaraoke033.ru,0,0,0,0,0,0,dead,0,2.7,https://www.openstreetmap.org/node/1104705533
-voronezh,4 комнаты,estate_agent,+7 4*******605,http://4room-vrn.ru,0,0,0,0,0,0,dead,0,4.5,https://www.openstreetmap.org/node/1739084978
+almaty,Bioklimat,electronics,+772*****891,https://bioklimat.kz/,0,0,0,0,0,0,dead,0,2.1,https://www.openstreetmap.org/node/5111174825
+astana,12 Месяцев,doityourself,+7 (********325,http://www.12mv.kz,0,0,0,0,0,0,dead,0,4.8,https://www.openstreetmap.org/node/4931059090
+ekaterinburg,Car-ton,car_repair,+7 3*******224,http://www.car-ton.ru,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/3062946037
+kazan,AVGservice,car_repair,+7 8*******470,http://avgservis.ru/,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/5104085721
+krasnodar,Grey Bear,pub,+7 8*******877,http://www.beef-and-beer.ru/,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/2497793498
+novosibirsk,Golden Rose,restaurant,+7 3*******332,http://www.goldenr.ru/,0,0,0,0,0,0,dead,0,4.2,https://www.openstreetmap.org/node/4149697990
+rostov,1000 и 1 ночь,massage,8928****030,http://1001noch.rnd,0,0,0,0,0,0,dead,0,4.2,https://www.openstreetmap.org/node/5604602022
+samara,Florida Flowers,florist,+792*****199,http://florisasmr.ru,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/5300432676
+ufa,033,bar,+7 9*******033,https://cafekaraoke033.ru,0,0,0,0,0,0,dead,0,2.5,https://www.openstreetmap.org/node/1104705533
+voronezh,4 комнаты,estate_agent,+7 4*******605,http://4room-vrn.ru,0,0,0,0,0,0,dead,0,4.2,https://www.openstreetmap.org/node/1739084978
 almaty,Ciga.kz,e-cigarette,+7 7********030,https://ciga.kz/,0,0,0,0,0,0,dead,0,2.1,https://www.openstreetmap.org/node/8944222189
-astana,Effecto,furniture,+7 7********414,https://effecto-mebel.ru/,0,0,0,0,0,0,dead,0,5.5,https://www.openstreetmap.org/node/11853858233
-ekaterinburg,Pumpula,restaurant,+7 (***********-12,http://xn--80avclbwc.xn--p1ai,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/1823658259
+astana,Effecto,furniture,+7 7********414,https://effecto-mebel.ru/,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/11853858233
+ekaterinburg,Paparazzi,restaurant,+734*****080,http://vino-pasta.ru/,0,0,0,0,0,0,dead,0,4.2,https://www.openstreetmap.org/node/1522763378
 kazan,Brown Bear,bar,+7 8*******066,https://www.brownbeargrill.com/,0,0,0,0,0,0,dead,0,2.3,https://www.openstreetmap.org/node/3908617916
-krasnodar,Iphone23,mobile_phone,+7 9*******331,http://www.iphobe23.ru,0,0,0,0,0,0,dead,0,5.4,https://www.openstreetmap.org/node/4397268293
-novosibirsk,People's,bar,+7 3*******383,https://peoplesbar.ru/,0,0,0,0,0,0,dead,0,2.3,https://www.openstreetmap.org/node/3852992088
-rostov,Abbey Road,pub,+7-8*******081,http://abbeyroadpub.ru/,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/956145812
-samara,Navigator,boat,+7 (***********-60,https://www.navigatorsamara.ru/,0,0,0,0,0,0,dead,0,2.2,https://www.openstreetmap.org/node/1125167266
-ufa,CarBox,car_parts,+7 9*******344,https://carbox102.ru/,0,0,0,0,0,0,dead,0,2.3,https://www.openstreetmap.org/node/8521187570
-voronezh,Iltokyo,restaurant,+7 4*******199,https://www.iltokyo.ru/,0,0,0,0,0,0,dead,0,2.3,https://www.openstreetmap.org/node/2024675324
+krasnodar,Iphone23,mobile_phone,+7 9*******331,http://www.iphobe23.ru,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/4397268293
+novosibirsk,People's,bar,+7 3*******383,https://peoplesbar.ru/,0,0,0,0,0,0,dead,0,2.2,https://www.openstreetmap.org/node/3852992088
+rostov,Abbey Road,pub,+7-8*******081,http://abbeyroadpub.ru/,0,0,0,0,0,0,dead,0,4.3,https://www.openstreetmap.org/node/956145812
+samara,Navigator,boat,+7 (***********-60,https://www.navigatorsamara.ru/,0,0,0,0,0,0,dead,0,2.1,https://www.openstreetmap.org/node/1125167266
+ufa,CarBox,car_parts,+7 9*******344,https://carbox102.ru/,0,0,0,0,0,0,dead,0,6.2,https://www.openstreetmap.org/node/8521187570
+voronezh,Iltokyo,restaurant,+7 4*******199,https://www.iltokyo.ru/,0,0,0,0,0,0,dead,0,2.1,https://www.openstreetmap.org/node/2024675324
