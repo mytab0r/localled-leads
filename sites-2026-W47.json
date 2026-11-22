@@ -1,6 +1,6 @@
 {
  "week": "2026-W47",
- "bad_sites": 647,
+ "bad_sites": 466,
  "cities": [
   "almaty",
   "astana",
@@ -14,8 +14,8 @@
   "voronezh"
  ],
  "audited": 1200,
- "verified": 1137,
- "blocked": 63,
+ "verified": 1068,
+ "blocked": 132,
  "dropped": {
   "junk": 11805,
   "social": 325,
@@ -23,9 +23,9 @@
   "quota": 8867,
   "phone": 6989
  },
- "avg_score": 1.2,
- "no_https": 550,
- "dead": 495,
+ "avg_score": 2.1,
+ "no_https": 348,
+ "dead": 278,
  "price_rub": {
   "sites": "1 990",
   "sites5": "4 900"
