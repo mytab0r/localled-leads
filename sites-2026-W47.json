@@ -1,6 +1,6 @@
 {
  "week": "2026-W47",
- "bad_sites": 466,
+ "bad_sites": 481,
  "cities": [
   "almaty",
   "astana",
@@ -14,18 +14,19 @@
   "voronezh"
  ],
  "audited": 1200,
- "verified": 1068,
- "blocked": 132,
+ "verified": 1101,
+ "blocked": 99,
  "dropped": {
   "junk": 11805,
-  "social": 325,
-  "dup": 4977,
-  "quota": 8867,
-  "phone": 6989
+  "social": 306,
+  "dup": 3907,
+  "quota": 7346,
+  "phone": 5410,
+  "chain": 4189
  },
- "avg_score": 2.1,
- "no_https": 348,
- "dead": 278,
+ "avg_score": 2.0,
+ "no_https": 372,
+ "dead": 297,
  "price_rub": {
   "sites": "1 990",
   "sites5": "4 900"

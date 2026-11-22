@@ -1,41 +1,41 @@
 ﻿city,name,rubric,phone,site,score,https,mobile,forms,seo,speed,issues,kb,secs,map_url
-almaty,Big Apple,cafe,+7 7********111,https://bigapple.kz/,0,0,0,0,0,0,dead,0,1.7,https://www.openstreetmap.org/node/6423827885
+almaty,Bioklimat,electronics,+772*****891,https://bioklimat.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5111174825
 astana,12 Месяцев,doityourself,+7 (********325,http://www.12mv.kz,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/4931059090
 ekaterinburg,Paparazzi,restaurant,+734*****080,http://vino-pasta.ru/,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/1522763378
-kazan,Brown Bear,bar,+7 8*******066,https://www.brownbeargrill.com/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/3908617916
-krasnodar,Fit Service,car_repair,+786*****030,http://skkr@fitauto.ru,0,0,0,0,0,0,dead,0,0.0,https://www.openstreetmap.org/node/1795386195
+kazan,AVGservice,car_repair,+7 8*******470,http://avgservis.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5104085721
+krasnodar,Grey Bear,pub,+7 8*******877,http://www.beef-and-beer.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/2497793498
 novosibirsk,Golden Rose,restaurant,+7 3*******332,http://www.goldenr.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/4149697990
-rostov,220 вольт,hardware,+7 (***********-51,https://220-volt.ru/,0,0,0,0,0,0,dead,0,15.7,https://www.openstreetmap.org/node/5037131224
+rostov,1000 и 1 ночь,massage,8928****030,http://1001noch.rnd,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5604602022
 samara,Florida Flowers,florist,+792*****199,http://florisasmr.ru,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5300432676
 ufa,033,bar,+7 9*******033,https://cafekaraoke033.ru,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/1104705533
 voronezh,4 комнаты,estate_agent,+7 4*******605,http://4room-vrn.ru,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/1739084978
-almaty,Bioklimat,electronics,+772*****891,https://bioklimat.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5111174825
+almaty,Ciga.kz,e-cigarette,+7 7********030,https://ciga.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/8944222189
+astana,Effecto,furniture,+7 7********414,https://effecto-mebel.ru/,0,0,0,0,0,0,dead,0,1.4,https://www.openstreetmap.org/node/11853858233
+ekaterinburg,Pumpula,restaurant,+7 (***********-12,http://xn--80avclbwc.xn--p1ai,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/1823658259
+kazan,Brown Bear,bar,+7 8*******066,https://www.brownbeargrill.com/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/3908617916
+krasnodar,Iphone23,mobile_phone,+7 9*******331,http://www.iphobe23.ru,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/4397268293
+novosibirsk,People's,bar,+7 3*******383,https://peoplesbar.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/3852992088
+rostov,Abbey Road,pub,+7-8*******081,http://abbeyroadpub.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/956145812
+samara,Navigator,boat,+7 (***********-60,https://www.navigatorsamara.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/1125167266
+ufa,CarBox,car_parts,+7 9*******344,https://carbox102.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/8521187570
+voronezh,Iltokyo,restaurant,+7 4*******199,https://www.iltokyo.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/2024675324
+almaty,Comstore,mobile_phone,8727****423,http://comstore.kz,0,0,0,0,0,0,dead,0,0.5,https://www.openstreetmap.org/node/4324663392
 astana,Embassy of the Federal Republic of Germany,diplomatic,+771*****200,https://kasachstan.diplo.de/kz-ru/vertretungen/botschaft,0,0,0,0,0,0,dead,0,0.9,https://www.openstreetmap.org/node/2359858874
 ekaterinburg,Башнефть,yes,+7 8*******588,https://www.bashneft-azs.ru,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/1743514872
 kazan,Major Express,logistics,+7 8*******151,http://kazan.major-express.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/2334168683
-krasnodar,Grey Bear,pub,+7 8*******877,http://www.beef-and-beer.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/2497793498
-novosibirsk,New York Pizza,fast_food,+7 3*******172,https://nypizza.ru,0,0,0,0,0,0,dead,0,2.9,https://www.openstreetmap.org/node/4111497491
-rostov,Abbey Road,pub,+7-8*******081,http://abbeyroadpub.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/956145812
-samara,Navigator,boat,+7 (***********-60,https://www.navigatorsamara.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/1125167266
+krasnodar,Iphone23,mobile_phone,+7 9*******664,http://iphone23.ru,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/4397321189
+novosibirsk,Ruby Aperitifs and Wines,bar,+7 3*******411,https://friendsorchestra.ru/rubybar,0,0,0,0,0,0,dead,0,0.9,https://www.openstreetmap.org/node/3157974539
+rostov,"Apple Reanimator, сервисный центр",electronics_repair,+7 8*********-55,https://apple-reanimator.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/4781167127
+samara,Photo&Copy,copyshop,+7 8*******725,http://photo-copy.su,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5200414521
 ufa,DNS Сервисный центр,electronics_repair,+7 3*******066,https://service.dns-shop.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/7670756952
-voronezh,Iltokyo,restaurant,+7 4*******199,https://www.iltokyo.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/2024675324
-almaty,Comstore,mobile_phone,8727****423,http://comstore.kz,0,0,0,0,0,0,dead,0,0.5,https://www.openstreetmap.org/node/4324663392
+voronezh,Milano Ricci,restaurant,+7 4*******888,http://milanoricci.ru/,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/1667269234
+almaty,Crank Master,bicycle,+7 7********310,http://velos.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5056818989
 astana,Kazakh food,cafe,8701****568,http://www.beshbarmak.kz,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/4361681890
 ekaterinburg,Бронто,hardware,+7 3*******405,https://1267174266193670.2gis.biz,0,0,0,0,0,0,dead,0,0.4,https://www.openstreetmap.org/node/1412621784
 kazan,Piston,car_repair,+7 9*******528,https://piston-tuning.ru/,0,0,0,0,0,0,dead,0,2.4,https://www.openstreetmap.org/node/4890477522
-krasnodar,Iphone23,mobile_phone,+7 9*******331,http://www.iphobe23.ru,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/4397268293
-novosibirsk,People's,bar,+7 3*******383,https://peoplesbar.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/3852992088
-rostov,"Apple Reanimator, сервисный центр",electronics_repair,+7 8*********-55,https://apple-reanimator.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/4781167127
-samara,Photo&Copy,copyshop,+7 8*******725,http://photo-copy.su,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5200414521
-ufa,Face,hairdresser,+7 9*******490,https://dikidi.online/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/8154394666
-voronezh,KIA Motors,car,+7 4*******323,http://motorland.kia.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/1413075131
-almaty,Crank Master,bicycle,+7 7********310,http://velos.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/5056818989
-astana,New Carpets,carpet,+777*****284,https://newcarpets.kz/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/6814625985
-ekaterinburg,Генеральное консульство США,diplomatic,+7 3*******001,http://russian.yekaterinburg.usconsulate.gov/,0,0,0,0,0,0,dead,0,1.1,https://www.openstreetmap.org/node/992518815
-kazan,Апрель,pharmacy,+7 8*******001,https://apteka-april.ru,0,0,0,0,0,0,dead,0,3.1,https://www.openstreetmap.org/node/1746843691
-krasnodar,Iphone23,mobile_phone,+7 9*******664,http://iphone23.ru,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/4397321189
-novosibirsk,Ruby Aperitifs and Wines,bar,+7 3*******411,https://friendsorchestra.ru/rubybar,0,0,0,0,0,0,dead,0,0.9,https://www.openstreetmap.org/node/3157974539
+krasnodar,Old School Bar,bar,+7 9*******313,http://oldschoolbar.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/2160827004
+novosibirsk,Streetlab,sports,+7 3*******031,https://streetlabstore.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/3825505942
 rostov,Exterior Center,scaffolder,+7 (***********-46,http://exteriorcenter.ru,0,0,0,0,0,0,dead,0,6.3,https://www.openstreetmap.org/node/3585484193
 samara,ZooHOME,veterinary,+7 9*******012,https://vet-zoohome.ru/,0,0,0,0,0,0,dead,0,0.1,https://www.openstreetmap.org/node/7368800706
-ufa,Gold,massage,+7 9*******217,http://m.goldufa.ru/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/5260324321
-voronezh,Milano Ricci,restaurant,+7 4*******888,http://milanoricci.ru/,0,0,0,0,0,0,dead,0,0.3,https://www.openstreetmap.org/node/1667269234
+ufa,Face,hairdresser,+7 9*******490,https://dikidi.online/,0,0,0,0,0,0,dead,0,0.2,https://www.openstreetmap.org/node/8154394666
+voronezh,de Bassus,restaurant,+747*****722,https://debassus.ru/vrn,0,0,0,0,0,0,dead,0,2.4,https://www.openstreetmap.org/node/824386578
