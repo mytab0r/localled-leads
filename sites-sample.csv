@@ -1,5 +1,5 @@
 ﻿city,name,rubric,phone,site,score,https,mobile,forms,seo,speed,issues,kb,secs,map_url
-almaty,"Prokofe La Marzocco, Iberital",cafe,+777*****080,http://www.prokofe.kz,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",0,0.8,https://www.openstreetmap.org/node/8629985417
+almaty,Нур кз,company,+772*****049,https://nur.kz/,3,2,0,0,0,1,"no-viewport,no-form,weak-seo",107,0.6,https://www.openstreetmap.org/node/7477985585
 astana,Сервисный центр Элтайм,company,+770*****979,https://www.eltime.kz,4,2,2,0,0,0,"no-form,weak-seo,slow",585,0.5,https://www.openstreetmap.org/node/11764970669
 ekaterinburg,"ОКБ ""Новатор"" имени Люльева",research,+7 3*******039,https://www.okb-novator.ru,3,0,2,0,1,0,"bad-ssl,no-form,weak-seo,slow",4,30.6,https://www.openstreetmap.org/node/2472710149
 kazan,Ариадна,travel_agency,+784*****912,http://xn--b1aaiaql6aolj.xn--p1ai,2,2,0,0,0,0,"no-viewport,no-form,weak-seo,slow",13,23.2,https://www.openstreetmap.org/node/2776760583
@@ -9,16 +9,16 @@ rostov,Пчёлка,veterinary,+786*****396,https://www.klinika-pchelka.narod.ru
 samara,АВТОВИЖЕН Плюс,car_parts,+792*****704,https://www.avtovision.ru/,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",14,1.1,https://www.openstreetmap.org/node/6361344385
 ufa,Капитал Медицинское Страхование,insurance,+7 3*******354,https://kapmed.ru/,2,2,0,0,0,0,"no-viewport,no-form,weak-seo,slow",585,3.7,https://www.openstreetmap.org/node/7505927791
 voronezh,Ташир,fast_food,+7 8*******910,http://tashirpizza.ru/,2,0,0,0,0,2,"no-https,no-viewport,no-form,weak-seo",13,0.1,https://www.openstreetmap.org/node/779176604
-almaty,Нур кз,company,+772*****049,https://nur.kz/,3,2,0,0,0,1,"no-viewport,no-form,weak-seo",107,0.6,https://www.openstreetmap.org/node/7477985585
+almaty,Bank of Astana JSC,company,+772*****060,https://www.bankastana.kz/,4,0,2,0,1,1,"bad-ssl,no-form,weak-seo",191,3.4,https://www.openstreetmap.org/node/4328597490
 astana,ШашлычОк,fast_food,+7 7********900,https://shashlychok.kz,4,2,1,0,1,0,"no-form,weak-seo,slow",466,1.1,https://www.openstreetmap.org/node/12049030088
-ekaterinburg,Salus,clinic,+734*****077,http://www.salusclinic.ru/,4,0,2,0,0,2,"no-https,no-form,weak-seo",1,1.1,https://www.openstreetmap.org/node/2334986311
-kazan,Казанская клиника,clinic,+7 8*******550,https://www.sberbank.ru,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",1,0.1,https://www.openstreetmap.org/node/3451135106
-krasnodar,Эмекс,car_parts,+7 9*******090,http://www.2440090.ru,2,0,0,0,0,2,"bad-ssl,no-viewport,no-form,weak-seo",0,0.9,https://www.openstreetmap.org/node/5070845521
+ekaterinburg,Атлантик Лада,car,+7-3*******373,http://www.atlanticauto.ru/,4,2,0,0,0,2,"no-viewport,no-form,weak-seo",13,0.3,https://www.openstreetmap.org/node/1369448867
+kazan,Казанская клиника,clinic,+7 8*******550,https://www.sberbank.ru,3,0,0,0,1,2,"bad-ssl,no-viewport,no-form,weak-seo",1,0.2,https://www.openstreetmap.org/node/3451135106
+krasnodar,Эмекс,car_parts,+7 9*******090,http://www.2440090.ru,2,0,0,0,0,2,"bad-ssl,no-viewport,no-form,weak-seo",0,1.0,https://www.openstreetmap.org/node/5070845521
 novosibirsk,АЦ Новосибирск,car,+7 3*******367,http://www.audi-novosibirsk.ru/,4,0,0,0,2,2,"no-https,no-viewport,no-form",12,0.1,https://www.openstreetmap.org/node/1218536399
-rostov,Селена,travel_agency,(863********-97,http://selena-tour.ru/,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",0,0.1,https://www.openstreetmap.org/node/3951421271
+rostov,Корова,restaurant,+786*****295,http://cowbar.ru,5,0,2,0,2,1,"no-https,no-form",145,0.2,https://www.openstreetmap.org/node/4790157524
 samara,Зов Джунглей,pet,+7 8*******329,https://www.zov-jungle.narod.ru/,4,0,0,0,2,2,"bad-ssl,no-viewport,no-form",17,1.2,https://www.openstreetmap.org/node/1985519289
 ufa,Автозапчасти на иномарки,car_parts,+7 9*******351,https://avtozap-ufa.ru/,4,2,0,0,0,2,"no-viewport,no-form,weak-seo",4,0.3,https://www.openstreetmap.org/node/2541216922
-voronezh,172 центральный автомобильный ремонтный завод,company,+7 4*******877,http://www.172carz.ru/,3,0,0,0,1,2,"no-https,no-viewport,no-form,weak-seo",0,0.2,https://www.openstreetmap.org/node/854470221
+voronezh,Sportiv,bicycle,+7 4*********-02,http://bikes.sportiv.ru/,4,2,0,0,0,2,"no-viewport,no-form,weak-seo",13,0.4,https://www.openstreetmap.org/node/2297571885
 almaty,Bioklimat,electronics,+772*****891,https://bioklimat.kz/,0,0,0,0,0,0,dead,0,2.1,https://www.openstreetmap.org/node/5111174825
 astana,12 Месяцев,doityourself,+7 (********325,http://www.12mv.kz,0,0,0,0,0,0,dead,0,4.8,https://www.openstreetmap.org/node/4931059090
 ekaterinburg,Car-ton,car_repair,+7 3*******224,http://www.car-ton.ru,0,0,0,0,0,0,dead,0,4.4,https://www.openstreetmap.org/node/3062946037
