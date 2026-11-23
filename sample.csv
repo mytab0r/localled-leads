@@ -1,41 +1,41 @@
-﻿city,name,rubric,phone,map_url,first_seen
-almaty,Beerka,alcohol,+7 7********027,https://www.openstreetmap.org/node/10228324663,2026-11-16
-astana,"0,7",alcohol,+770*****162,https://www.openstreetmap.org/node/14270647203,2026-11-16
-ekaterinburg,ООО Оферта-аудит,accountant,+7-3*********-16,https://www.openstreetmap.org/node/4366915401,2026-11-16
-kazan,CopyRoom,advertising_agency,+7 8*******675,https://www.openstreetmap.org/node/9984003765,2026-11-16
-krasnodar,Romanzo,advertising_agency,+7 9*******086,https://www.openstreetmap.org/node/12541096608,2026-11-16
-novosibirsk,Белая бухгалтерия,accountant,+7 9*******062,https://www.openstreetmap.org/node/11747632802,2026-11-16
-rostov,Mama Park,baby_goods,+7‒9*********‒07,https://www.openstreetmap.org/way/1192654105,2026-11-16
-samara,ФинПартнер,accountant,+7 9*******403,https://www.openstreetmap.org/node/11594121842,2026-11-16
-ufa,Дачница,agrarian,+7 3*******403,https://www.openstreetmap.org/node/8635420130,2026-11-16
-voronezh,Bochka,alcohol,+7 9*********-18,https://www.openstreetmap.org/node/9761482562,2026-11-16
-almaty,Менделеев,alcohol,+7 7********390,https://www.openstreetmap.org/node/11443113028,2026-11-16
-astana,Brut.kz,alcohol,+7 7********999,https://www.openstreetmap.org/node/10228318107,2026-11-16
-ekaterinburg,Сделано вместе,advertising_agency,+7 (***********-01,https://www.openstreetmap.org/node/12496206118,2026-11-16
-kazan,Grasias gift,advertising_agency,+7 9*******858,https://www.openstreetmap.org/node/10852703340,2026-11-16
-krasnodar,Три слова,advertising_agency,+7 9*******058,https://www.openstreetmap.org/node/11016631756,2026-11-16
-novosibirsk,БухАудитФинанс,accountant,+7 9*******280,https://www.openstreetmap.org/node/11332750838,2026-11-16
-rostov,Быть Добру,bakery,+792*****628,https://www.openstreetmap.org/node/8077364617,2026-11-16
-samara,Trademark,advertising_agency,+7 9*******211,https://www.openstreetmap.org/node/10928208224,2026-11-16
-ufa,Дары Дагестана,alcohol,+7 9*******230,https://www.openstreetmap.org/node/10576685529,2026-11-16
-voronezh,Плюшка,bakery,+790*****060,https://www.openstreetmap.org/node/6158497027,2026-11-16
-almaty,Tamiko,baby_goods,+7 7********309,https://www.openstreetmap.org/node/11029827896,2026-11-16
-astana,Барик,alcohol,+770*****577,https://www.openstreetmap.org/node/4913391921,2026-11-16
-ekaterinburg,Студия 11,advertising_agency,+7 (***********–73,https://www.openstreetmap.org/way/320188393,2026-11-16
-kazan,100dal,alcohol,+7 9*******058,https://www.openstreetmap.org/node/9980208067,2026-11-16
-krasnodar,Коньярт,alcohol,+7 8*******121,https://www.openstreetmap.org/node/4118750089,2026-11-16
-novosibirsk,Vector,advertising_agency,+7 9*******898,https://www.openstreetmap.org/node/11747574641,2026-11-16
-rostov,Anti aging center by Promoitalia,beauty,7 92******383,https://www.openstreetmap.org/node/11156195546,2026-11-16
-samara,Розмарин,agrarian,+7 9*******938,https://www.openstreetmap.org/node/12071309571,2026-11-16
-ufa,Своя Полка,baby_goods,+7 9*******000,https://www.openstreetmap.org/node/8521187556,2026-11-16
-voronezh,Тобус,bakery,+7(4*********-61,https://www.openstreetmap.org/node/6269307386,2026-11-16
-almaty,Chunky Cookies,bakery,+777*****710,https://www.openstreetmap.org/node/12533770894,2026-11-16
-astana,Craft,bar,+771*****590,https://www.openstreetmap.org/node/11950128620,2026-11-16
-ekaterinburg,Бристоль,alcohol,8‒80********‒55,https://www.openstreetmap.org/node/12526704828,2026-11-16
-kazan,Pushka Br,alcohol,+7 9*******016,https://www.openstreetmap.org/node/11766205812,2026-11-16
-krasnodar,Пивная лавка. Раковая,alcohol,+7 9*******104,https://www.openstreetmap.org/node/4790345923,2026-11-16
-novosibirsk,Начало,advertising_agency,+7 9*******334,https://www.openstreetmap.org/node/12216002798,2026-11-16
-rostov,Expert Carita,beauty,+7 9*******002,https://www.openstreetmap.org/node/11156216140,2026-11-16
-samara,Садовый центр,agrarian,+7 9*******418,https://www.openstreetmap.org/node/10697406148,2026-11-16
-ufa,Домовёнок,bakery,+7(9**********-74,https://www.openstreetmap.org/way/89305519,2026-11-16
-voronezh,BERSERK BAR,bar,+795*****217,https://www.openstreetmap.org/node/8972936317,2026-11-16
+﻿city,name,niche,rubric,phone,map_url,first_seen
+almaty,Beerka,,alcohol,+7 7********027,https://www.openstreetmap.org/node/10228324663,2026-11-16
+astana,Brut.kz,,alcohol,+7 7********999,https://www.openstreetmap.org/node/10228318107,2026-11-16
+ekaterinburg,ООО Оферта-аудит,,accountant,+7-3*********-16,https://www.openstreetmap.org/node/4366915401,2026-11-16
+kazan,CopyRoom,,advertising_agency,+7 8*******675,https://www.openstreetmap.org/node/9984003765,2026-11-16
+krasnodar,Romanzo,,advertising_agency,+7 9*******086,https://www.openstreetmap.org/node/12541096608,2026-11-16
+novosibirsk,Белая бухгалтерия,,accountant,+7 9*******062,https://www.openstreetmap.org/node/11747632802,2026-11-16
+rostov,Mama Park,,baby_goods,+7‒9*********‒07,https://www.openstreetmap.org/way/1192654105,2026-11-16
+samara,ФинПартнер,,accountant,+7 9*******403,https://www.openstreetmap.org/node/11594121842,2026-11-16
+ufa,Дачница,,agrarian,+7 3*******403,https://www.openstreetmap.org/node/8635420130,2026-11-16
+voronezh,Bochka,,alcohol,+7 9*********-18,https://www.openstreetmap.org/node/9761482562,2026-11-16
+almaty,Менделеев,,alcohol,+7 7********390,https://www.openstreetmap.org/node/11443113028,2026-11-16
+astana,Барик,,alcohol,+770*****577,https://www.openstreetmap.org/node/4913391921,2026-11-16
+ekaterinburg,Сделано вместе,,advertising_agency,+7 (***********-01,https://www.openstreetmap.org/node/12496206118,2026-11-16
+kazan,Grasias gift,,advertising_agency,+7 9*******858,https://www.openstreetmap.org/node/10852703340,2026-11-16
+krasnodar,Три слова,,advertising_agency,+7 9*******058,https://www.openstreetmap.org/node/11016631756,2026-11-16
+novosibirsk,БухАудитФинанс,,accountant,+7 9*******280,https://www.openstreetmap.org/node/11332750838,2026-11-16
+rostov,Быть Добру,,bakery,+792*****628,https://www.openstreetmap.org/node/8077364617,2026-11-16
+samara,Trademark,,advertising_agency,+7 9*******211,https://www.openstreetmap.org/node/10928208224,2026-11-16
+ufa,Дары Дагестана,,alcohol,+7 9*******230,https://www.openstreetmap.org/node/10576685529,2026-11-16
+voronezh,Плюшка,,bakery,+790*****060,https://www.openstreetmap.org/node/6158497027,2026-11-16
+almaty,Tamiko,,baby_goods,+7 7********309,https://www.openstreetmap.org/node/11029827896,2026-11-16
+astana,Craft,,bar,+771*****590,https://www.openstreetmap.org/node/11950128620,2026-11-16
+ekaterinburg,Студия 11,,advertising_agency,+7 (***********–73,https://www.openstreetmap.org/way/320188393,2026-11-16
+kazan,100dal,,alcohol,+7 9*******058,https://www.openstreetmap.org/node/9980208067,2026-11-16
+krasnodar,Коньярт,,alcohol,+7 8*******121,https://www.openstreetmap.org/node/4118750089,2026-11-16
+novosibirsk,Vector,,advertising_agency,+7 9*******898,https://www.openstreetmap.org/node/11747574641,2026-11-16
+rostov,Anti aging center by Promoitalia,belleza,beauty,7 92******383,https://www.openstreetmap.org/node/11156195546,2026-11-16
+samara,Розмарин,,agrarian,+7 9*******938,https://www.openstreetmap.org/node/12071309571,2026-11-16
+ufa,Своя Полка,,baby_goods,+7 9*******000,https://www.openstreetmap.org/node/8521187556,2026-11-16
+voronezh,Тобус,,bakery,+7(4*********-61,https://www.openstreetmap.org/node/6269307386,2026-11-16
+almaty,Chunky Cookies,,bakery,+777*****710,https://www.openstreetmap.org/node/12533770894,2026-11-16
+astana,Restobar D51,,bar,+777*****060,https://www.openstreetmap.org/node/6698615689,2026-11-16
+ekaterinburg,Бристоль,,alcohol,8‒80********‒55,https://www.openstreetmap.org/node/12526704828,2026-11-16
+kazan,Pushka Br,,alcohol,+7 9*******016,https://www.openstreetmap.org/node/11766205812,2026-11-16
+krasnodar,Пивная лавка. Раковая,,alcohol,+7 9*******104,https://www.openstreetmap.org/node/4790345923,2026-11-16
+novosibirsk,Начало,,advertising_agency,+7 9*******334,https://www.openstreetmap.org/node/12216002798,2026-11-16
+rostov,Expert Carita,belleza,beauty,+7 9*******002,https://www.openstreetmap.org/node/11156216140,2026-11-16
+samara,Садовый центр,,agrarian,+7 9*******418,https://www.openstreetmap.org/node/10697406148,2026-11-16
+ufa,Домовёнок,,bakery,+7(9**********-74,https://www.openstreetmap.org/way/89305519,2026-11-16
+voronezh,BERSERK BAR,,bar,+795*****217,https://www.openstreetmap.org/node/8972936317,2026-11-16
