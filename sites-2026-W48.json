@@ -1,0 +1,36 @@
+{
+ "week": "2026-W48",
+ "bad_sites": 450,
+ "cities": [
+  "almaty",
+  "astana",
+  "ekaterinburg",
+  "kazan",
+  "krasnodar",
+  "novosibirsk",
+  "rostov",
+  "samara",
+  "ufa",
+  "voronezh"
+ ],
+ "audited": 1195,
+ "verified": 1077,
+ "blocked": 117,
+ "dropped": {
+  "junk": 11858,
+  "social": 306,
+  "dup": 3961,
+  "quota": 7319,
+  "phone": 5407,
+  "chain": 4195
+ },
+ "avg_score": 1.9,
+ "no_https": 353,
+ "dead": 292,
+ "price_rub": {
+  "sites": "1 990",
+  "sites5": "4 900"
+ },
+ "contact": "factory@pxbt.app",
+ "license": "ODbL (OpenStreetMap)"
+}
